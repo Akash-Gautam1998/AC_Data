@@ -1,5 +1,5 @@
-# AC_Data
-Forecast-the-AC-power-consumption
+# Forecast-the-AC-power-consumption using AC_Data
+
 The data contains power for multiple ACs at some hotel in Gurgaon.
 
 1. Identify patterns/trends in the data?
